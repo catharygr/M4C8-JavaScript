@@ -673,9 +673,9 @@ console.log(x, y); // 5 10
 - Usa la deconstrucción para escribir código más limpio y directo.
 - Es muy útil cuando trabajas con objetos o arreglos grandes.
 
-### Diagrama de `destructuración`
+### Diagrama de `desestructuración`
 
-![Diagrama de destructuración](destructuracion.png)
+![Diagrama de desestructuración](desestructuracion.png)
 
 **Más información:** [Desestructuración en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
@@ -1202,5 +1202,9 @@ Imagina que tienes una lista de tareas (promesas) y quieres hacerlas en orden, e
 
 **Consejo:**
 Practica transformando funciones con `.then()` a `async/await` para ver cómo mejora la claridad de tu código.
+
+### Diagrama de `async/await`
+
+![Diagrama de async y await](async y await.png)
 
 **Más información:** [async y await en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
