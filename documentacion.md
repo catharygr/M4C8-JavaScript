@@ -836,6 +836,10 @@ console.log(otrosDatos); // { edad: 25, ciudad: "Madrid" }
 **Consejo:**
 ¡Practica con ejemplos sencillos! Cambia el orden, agrega o quita elementos, y observa cómo se comportan `...spread` y `...rest` para entenderlos mejor.
 
+### Diagrama de operador de `propagación/rest`
+
+![Diagrama de operador de propagación/rest](extension.png)
+
 **Más información:** [Operador de propagación/rest en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 ## ¿Qué es la programación orientada a objetos?
@@ -964,6 +968,10 @@ console.log(c.verSaldo()); // 100
 
 **Consejo:**
 Practica creando tus propios objetos y clases para entender mejor cómo funciona la POO en JavaScript.
+
+### Diagrama de `POO`
+
+![Diagrama de POO](oop.png)
 
 **Más información:** [POO en JavaScript en MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 
@@ -1098,6 +1106,10 @@ esperar(1000)
 
 **Consejo:**
 Practica creando promesas simples y usando `then` y `catch` para entender cómo fluyen los resultados y los errores.
+
+### Diagrama de las `promesas`
+
+![Diagrama de las promesas](promesas.png)
 
 **Más información:** [Promesas en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Using_promises)
 
