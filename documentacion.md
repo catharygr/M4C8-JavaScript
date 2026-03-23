@@ -1,3 +1,5 @@
+# Documentación de Javascript
+
 ## ¿Qué son los bucles en JavaScript?
 
 Los bucles (loops) en JavaScript son estructuras de control que permiten ejecutar un bloque de código varias veces de manera automática. Son fundamentales para automatizar tareas repetitivas, procesar listas de datos, recorrer arreglos y realizar operaciones que requieren repetición sin tener que escribir el mismo código muchas veces.
@@ -1205,6 +1207,12 @@ Practica transformando funciones con `.then()` a `async/await` para ver cómo me
 
 ### Diagrama de `async/await`
 
-![Diagrama de async y await](async y await.png)
+![Diagrama de async y await](async-await.png)
 
 **Más información:** [async y await en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
+
+💡 Consejo: Siempre documenta tu código y comparte tu conocimiento. Un equipo que aprende junto es un equipo que progresa más rápido.
+
+¡Sigue practicando y explorando nuevas ideas! 🚀
+
+Un Saludo!
